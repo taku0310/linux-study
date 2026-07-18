@@ -1,0 +1,8 @@
+# ビルド成果物 (build/ 自体は .gitkeep で残す)
+build/*
+!build/.gitkeep
+
+# オブジェクト/実行ファイル
+*.o
+*.out
+*.exe
